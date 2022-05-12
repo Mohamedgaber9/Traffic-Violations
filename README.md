@@ -1,1 +1,2 @@
 # Traffic-Violations
+Traffic Violations Dataset contains around 65k+ traffic-related violation records. The attributes are Date of violation, Time of violation, Country name, Gender of violators (Male-M, Female-F), Age of violators, Race of violators, Category of violation, Search conducted, Result of violation, Arrest information, Detained time taken by the violators to stop and Involvement in drugs etc.
